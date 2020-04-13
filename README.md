@@ -1,2 +1,2 @@
-# cloudera_ibm_capstone
-Clouder idm capstone project
+# coursera_ibm_capstone
+Coursera IBM capstone project
